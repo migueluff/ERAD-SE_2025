@@ -34,7 +34,7 @@ The Codespaces environment will:
 
 ### Latest Version from "main" branch:
 
-* [main](https://gitpod.io/#https://github.com/mauromarx/ERAD-SE_2025)
+* [main](https://gitpod.io/#https://github.com/migueluff/ERAD-SE_2025)
 
 ---
 
